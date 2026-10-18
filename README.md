@@ -1,0 +1,7 @@
+This code simulates a classical one-component \phi^4 theory in 2+1 dimensions, coupled to a small amplitude homogenous external field described in the paper
+
+Borsanyi, Sz. and Patkos, A. and Polonyi, J. and Szep, Zs.
+Fate of the classical false vacuum
+Phys. Rev. D 62 085013 (2000) 10.1103/PhysRevD.62.085013 ArXiv:hep-th/0004059
+
+
