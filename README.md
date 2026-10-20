@@ -1,4 +1,4 @@
-Final assignment for HPC High Performance Computing at University of Wuppertal Winter 2025-2026 for Erasmus Mundus Masters Program Maths DISC by Wellinton Scheffer and Frederick Lancia
+Final assignment for HPC High Performance Computing at University of Wuppertal Winter 2025-2026 for Erasmus Mundus Masters Program Maths DISC by Wellinton Cabral Scheffer and Frederick Lancia
 
 This code simulates a classical one-component \phi^4 theory in 2+1 dimensions, coupled to a small amplitude homogenous external field described in the paper
 
